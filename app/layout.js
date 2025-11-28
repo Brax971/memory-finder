@@ -1,0 +1,1 @@
+<html><body><main>{children}</main></body></html>
